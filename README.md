@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=600&size=50&pause=450&color=C9A961&center=true&vCenter=true&width=1200&height=140&lines=BEE+SWARM+SIMULATOR+HACK+SCRIPT+2026;AUTO+FARM+%7C+AUTO+DIG+%7C+AUTO+QUEST;MAKE+THE+HONEY" alt="Bee Swarm Simulator Hack Script 2026" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6e616ba1-5693-404a-a494-a9a848ca0c8d" />
 
 <br/>
 
